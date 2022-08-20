@@ -1,0 +1,5 @@
+import AboutUS from './about-us'
+import Contact from './contact'
+import Home from './home'
+import Courses from './courses'
+import Register from './register'
